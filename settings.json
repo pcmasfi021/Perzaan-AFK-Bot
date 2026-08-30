@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Hardcraft21.aternos.me:42484",
+    "port": 42484,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
